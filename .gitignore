@@ -1,6 +1,8 @@
-*/backup/*
+**/backup/**/*
 */rendering/*
 */reference/*
 */animation/*
 */geo/*
 images/*
+
+.idea
