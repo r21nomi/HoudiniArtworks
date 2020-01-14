@@ -2,7 +2,8 @@
 */rendering/*
 */reference/*
 */animation/*
-*/geo/*
+*/**/geo/*
+*/**/render/*
 images/*
 
 .idea
